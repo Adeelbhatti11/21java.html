@@ -1,4 +1,4 @@
-thankyou
+.thankyou
 ok
 g
 
